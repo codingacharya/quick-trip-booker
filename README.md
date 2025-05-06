@@ -22,6 +22,8 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
+**video analysis** https://youtube.com/shorts/X0ZM1nwg5nk?feature=share
+
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
